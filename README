@@ -1,10 +1,10 @@
 # Power-BI
-This repository contains Power BI project working on sales data from a fictional hardware company AltiQ. 
+This repository contains a Power BI project working on sales data from a fictional hardware company AltiQ. 
 
 It is a consumer goods electronics company having operations in various countries. 
-Their business is growing rapidly and they still rely on excel files for data analytics. 
+Their business is growing rapidly and they still rely on Excel files for data analytics. 
 
-Due to the lack of effective analytics the company faced a major loss in Latin America.
+Due to the lack of effective analytics, the company faced a major loss in Latin America.
 
-I, as a part of data analytics team, am tasked to build appropriate dashboards and finace reports 
-to shed some light on AltiQ's Financial, Logistical and Marketing weelbeing.
+I, as a part of the data analytics team, am tasked to build appropriate dashboards and finance reports 
+to shed some light on AltiQ's Financial, Logistical, and Marketing well-being.
